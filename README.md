@@ -1,10 +1,11 @@
-# recaman-sequence
+# Recaman sequence
 
-A Clojure library designed to ... well, that part is up to you.
+Discovered on a in the number file video, code is really bad, done in < 30 mins running  the quil sketch should produce
+ 
+ ![alt text](https://github.com/LukeDefeo/recaman-sequence/image.png "Logo Title Text 1")
 
-## Usage
 
-FIXME
+
 
 ## License
 
